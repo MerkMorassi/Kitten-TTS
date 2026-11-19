@@ -1,0 +1,6 @@
+{
+  "name": "Kitten-TTS Studio & On-Device Engine",
+  "description": "On-device, offline Text-to-Speech engine inspired by Kitten-TTS 0.8 with 8 distinct voices, instant local generation, word timings, and base64 WAV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
